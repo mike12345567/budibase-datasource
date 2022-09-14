@@ -1,6 +1,6 @@
 {
   "name": "budibase-datasource",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An amazing Budibase datasource!",
   "main": "src/index.ts",
   "license": "UNLICENSED",
